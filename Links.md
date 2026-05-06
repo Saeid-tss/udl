@@ -1,4 +1,9 @@
 ## 🔗 Direct Download Links
+
+### 📅 2026-05-06 12:58 (IR Time)
+- 📥 **[MasterDnsVPN_Client_Windows_AMD64.zip](https://github.com/Saeid-tss/udl/raw/main/dl/MasterDnsVPN_Client_Windows_AMD64.zip)**
+
+## 🔗 Direct Download Links
  Click on any link below to start downloading directly.
 
 
