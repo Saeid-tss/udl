@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-06 13:00 (IR Time)
+- 📥 **[mhrv-rs-android-arm64-v8a-v1.9.14.apk](https://github.com/Saeid-tss/udl/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.14.apk)**
+
 ### 📅 2026-05-06 12:58 (IR Time)
 - 📥 **[MasterDnsVPN_Client_Windows_AMD64.zip](https://github.com/Saeid-tss/udl/raw/main/dl/MasterDnsVPN_Client_Windows_AMD64.zip)**
 
