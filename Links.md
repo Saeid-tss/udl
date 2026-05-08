@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-08 10:28 (IR Time)
+- 📥 [Chopin Etude Op.25 No.2 - P. Barton FEURICH 133 piano.mp4](https://github.com/Saeid-tss/udl/raw/main/dl/Chopin%20Etude%20Op.25%20No.2%20-%20P.%20Barton%20FEURICH%20133%20piano.mp4) `8.97 MB`
+
 ### 📅 2026-05-08 10:24 (IR Time)
 - 📥 [telegram-universal-revanced-experiments-v12.6.4.1.apk](https://github.com/Saeid-tss/udl/raw/main/dl/telegram-universal-revanced-experiments-v12.6.4.1.apk) `76.73 MB`
 
