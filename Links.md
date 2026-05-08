@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-08 19:46 (IR Time)
+- 📥 [telegram-universal-revanced-experiments-v12.7.1.apk](https://github.com/Saeid-tss/udl/raw/main/dl/telegram-universal-revanced-experiments-v12.7.1.apk) `59.11 MB`
+
 ### 📅 2026-05-08 19:33 (IR Time)
 - 📥 [thefeed-files-main.zip](https://github.com/Saeid-tss/udl/raw/main/dl/thefeed-files-main.zip) `51.25 MB`
 
