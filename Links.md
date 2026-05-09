@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-09 10:00 (IR Time)
+- 📥 [MasterDnsVPN_Client_Windows_AMD64.zip](https://github.com/Saeid-tss/udl/raw/main/dl/MasterDnsVPN_Client_Windows_AMD64.zip) `4.03 MB`
+
 ### 📅 2026-05-09 07:59 (IR Time)
 - 📥 [roundsync_v2.6.0-oss-arm64-v8a-release.apk](https://github.com/Saeid-tss/udl/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk) `36.85 MB`
 
