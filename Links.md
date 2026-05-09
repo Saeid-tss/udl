@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-09 07:59 (IR Time)
+- 📥 [roundsync_v2.6.0-oss-arm64-v8a-release.apk](https://github.com/Saeid-tss/udl/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk) `36.85 MB`
+
 ### 📅 2026-05-08 19:46 (IR Time)
 - 📥 [telegram-universal-revanced-experiments-v12.7.1.apk](https://github.com/Saeid-tss/udl/raw/main/dl/telegram-universal-revanced-experiments-v12.7.1.apk) `59.11 MB`
 
