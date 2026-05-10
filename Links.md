@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-10 11:44 (IR Time)
+- 📥 [WhiteDNS-1.0.0-arm64-v8a.apk](https://github.com/Saeid-tss/udl/raw/main/dl/WhiteDNS-1.0.0-arm64-v8a.apk) `5.02 MB`
+
 ### 📅 2026-05-09 15:46 (IR Time)
 - 📥 [تو انباری کومان چی پیدا میشه_.zip](https://github.com/Saeid-tss/udl/raw/main/dl/%D8%AA%D9%88%20%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C%20%DA%A9%D9%88%D9%85%D8%A7%D9%86%20%DA%86%DB%8C%20%D9%BE%DB%8C%D8%AF%D8%A7%20%D9%85%DB%8C%D8%B4%D9%87_.zip) `84.17 MB`
 
