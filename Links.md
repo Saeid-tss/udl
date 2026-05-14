@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 07:45 (IR Time)
+- 📱 [WhiteDNS-1.3.0-arm64-v8a.apk](https://github.com/Saeid-tss/udl/raw/main/dl/WhiteDNS-1.3.0-arm64-v8a.apk) `5.23 MB`
+
 ### 📅 2026-05-11 06:56 (IR Time)
 - 📥 [WhiteDNS-1.1.0-arm64-v8a.apk](https://github.com/Saeid-tss/udl/raw/main/dl/WhiteDNS-1.1.0-arm64-v8a.apk) `5.06 MB`
 
